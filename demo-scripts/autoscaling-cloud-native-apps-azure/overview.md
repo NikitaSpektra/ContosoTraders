@@ -4,7 +4,7 @@
 
 In this demo, you'll get an overview of the autoscaling features of various Azure services like ACA (Azure Container Apps) and AKS (Azure Kubernetes Service).
 
-You'll also get an insight into how to use Azure Monitor to monitor the application's performance and health.
+You'll also get an insight on how to use Azure Monitor to monitor the application's performance and health.
 
 All these are especially crucial for an e-commerce application like Contoso Traders, which is expected to instantly handle a large, sudden spike in number of users, with low latency and no downtime.
 
